@@ -196,16 +196,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.6@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12217819,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
-            "MD5": "697c58299b7addd59f99ff5a1f873002"
-          }
-        },
-        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
