@@ -1,4 +1,4 @@
-resourcePacks:["vanilla","fabric","continuity:default"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","fabric"]
 lang:ko_kr
 soundCategory_music:0.0
 gamma:1.0

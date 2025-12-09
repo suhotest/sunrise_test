@@ -1109,7 +1109,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 288,
+            "size": 324,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options.txt",
             "path": "options.txt"
           }
