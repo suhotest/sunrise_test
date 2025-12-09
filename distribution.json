@@ -12,7 +12,7 @@
       "name": "sunrise (Minecraft 1.21.4)",
       "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
       "icon": "https://github.com/minsuho/dolpal/raw/main/repo/ico.jpg",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "address": "1.251.106.167",
       "minecraftVersion": "1.21.4",
       "discord": {
