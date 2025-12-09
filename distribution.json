@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259819,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.9.3@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
@@ -243,6 +253,16 @@
             "size": 1050777,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/modmenu-13.0.3.jar",
             "MD5": "e8884b37fe775f30a0121c4fbdfb32ac"
+          }
+        },
+        {
+          "id": "org.redlance.dima_dencep.mods:online_emotes:3.3.5+mc1.21.4-fabric@jar",
+          "name": "Online Emotes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1097897,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/online-emotes-3.3.5+mc1.21.4-fabric.jar",
+            "MD5": "945529d7a49e6153b6b4bb8eec1c3fa8"
           }
         },
         {
