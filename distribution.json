@@ -226,6 +226,16 @@
           }
         },
         {
+          "id": "org.embeddedt:modernfix:5.20.3+mc1.21.4@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 436498,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/modernfix-fabric-5.20.3+mc1.21.4.jar",
+            "MD5": "1bee2326edcced182b86154e44810971"
+          }
+        },
+        {
           "id": "com.terraformersmc:modmenu:13.0.3@jar",
           "name": "Mod Menu",
           "type": "FabricMod",
@@ -310,7 +320,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 267,
+            "size": 288,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/options.txt",
             "path": "options.txt"
           }

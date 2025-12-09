@@ -1,4 +1,4 @@
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","continuity:default"]
 lang:ko_kr
 soundCategory_music:0.0
 gamma:1.0
