@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/11/Documents/GitHub/sunrise/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "name": "sunrise (Minecraft 1.21.4)",
     "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
     "icon": "https://github.com/minsuho/dolpal/raw/main/repo/ico.jpg",
