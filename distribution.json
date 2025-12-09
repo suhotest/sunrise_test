@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.4.3@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 644183,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+            "MD5": "dbda05e27f5b2710d991196c66261df1"
+          }
+        },
+        {
           "id": "com.gitter.gtdonationapi.fabric.v1_21_4:gtdonationapi:2.0.4@jar",
           "name": "GT-DonationAPI",
           "type": "FabricMod",
