@@ -500,6 +500,17 @@
           }
         },
         {
+          "id": "Family Guy Death.emotecraft",
+          "name": "Family Guy Death.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 38237,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/Family%20Guy%20Death.emotecraft",
+            "MD5": "8d6ec02003aec180df18194f9b8aeb23",
+            "path": "emotes/Family Guy Death.emotecraft"
+          }
+        },
+        {
           "id": "Fast Salute.emotecraft",
           "name": "Fast Salute.emotecraft",
           "type": "File",
@@ -555,6 +566,17 @@
           }
         },
         {
+          "id": "head escape.emotecraft",
+          "name": "head escape.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 956418,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/head%20escape.emotecraft",
+            "MD5": "9069e0b83eed1b9b278c834dd85da5b9",
+            "path": "emotes/head escape.emotecraft"
+          }
+        },
+        {
           "id": "headball.json",
           "name": "headball.json",
           "type": "File",
@@ -607,6 +629,17 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/hearthands.json",
             "MD5": "6273881d1c769ddb817a24958c868df0",
             "path": "emotes/hearthands.json"
+          }
+        },
+        {
+          "id": "Hide (Hide and seek - barrel).emotecraft",
+          "name": "Hide (Hide and seek - barrel).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 4485,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/Hide%20(Hide%20and%20seek%20-%20barrel).emotecraft",
+            "MD5": "19cf0a64e6f85437eb1b133ea73a6a51",
+            "path": "emotes/Hide (Hide and seek - barrel).emotecraft"
           }
         },
         {
@@ -772,182 +805,6 @@
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/meeting.json",
             "MD5": "f4fb80db2fd4c92185c84782664bea21",
             "path": "emotes/meeting.json"
-          }
-        },
-        {
-          "id": "motion1.json",
-          "name": "motion1.json",
-          "type": "File",
-          "artifact": {
-            "size": 5534,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion1.json",
-            "MD5": "78ffd294a0f25d29706098bd614ec614",
-            "path": "emotes/motion1.json"
-          }
-        },
-        {
-          "id": "motion1.png",
-          "name": "motion1.png",
-          "type": "File",
-          "artifact": {
-            "size": 36800,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion1.png",
-            "MD5": "e43334b0c6da2e6c9819abeacb20c45c",
-            "path": "emotes/motion1.png"
-          }
-        },
-        {
-          "id": "motion2.json",
-          "name": "motion2.json",
-          "type": "File",
-          "artifact": {
-            "size": 2547,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion2.json",
-            "MD5": "1ac8df20a1a0235b09f48b0a3d16e68b",
-            "path": "emotes/motion2.json"
-          }
-        },
-        {
-          "id": "motion2.png",
-          "name": "motion2.png",
-          "type": "File",
-          "artifact": {
-            "size": 34967,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion2.png",
-            "MD5": "97d74e362ed9c6cd7446d1c74a34de4d",
-            "path": "emotes/motion2.png"
-          }
-        },
-        {
-          "id": "motion3.json",
-          "name": "motion3.json",
-          "type": "File",
-          "artifact": {
-            "size": 3890,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion3.json",
-            "MD5": "c379202dff697d0ca9b223992f1680a7",
-            "path": "emotes/motion3.json"
-          }
-        },
-        {
-          "id": "motion3.png",
-          "name": "motion3.png",
-          "type": "File",
-          "artifact": {
-            "size": 36113,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion3.png",
-            "MD5": "0fc2a98f11effbbe96ba47d182191013",
-            "path": "emotes/motion3.png"
-          }
-        },
-        {
-          "id": "motion4.json",
-          "name": "motion4.json",
-          "type": "File",
-          "artifact": {
-            "size": 2794,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion4.json",
-            "MD5": "86bdd0fd8c4dbc01cb2c8b492e6ddb7f",
-            "path": "emotes/motion4.json"
-          }
-        },
-        {
-          "id": "motion4.png",
-          "name": "motion4.png",
-          "type": "File",
-          "artifact": {
-            "size": 35678,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion4.png",
-            "MD5": "0d6effdfeac6d6b640ec29d207ca00b7",
-            "path": "emotes/motion4.png"
-          }
-        },
-        {
-          "id": "motion5.json",
-          "name": "motion5.json",
-          "type": "File",
-          "artifact": {
-            "size": 2762,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion5.json",
-            "MD5": "92709ed73f45828def6923aac155c42f",
-            "path": "emotes/motion5.json"
-          }
-        },
-        {
-          "id": "motion5.png",
-          "name": "motion5.png",
-          "type": "File",
-          "artifact": {
-            "size": 35864,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion5.png",
-            "MD5": "a539abb9cac10e32bd5de80ef5a6698a",
-            "path": "emotes/motion5.png"
-          }
-        },
-        {
-          "id": "motion6.json",
-          "name": "motion6.json",
-          "type": "File",
-          "artifact": {
-            "size": 2117,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion6.json",
-            "MD5": "b08017924f59d55f590ad52b882c468a",
-            "path": "emotes/motion6.json"
-          }
-        },
-        {
-          "id": "motion6.png",
-          "name": "motion6.png",
-          "type": "File",
-          "artifact": {
-            "size": 36372,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion6.png",
-            "MD5": "800d81f820779a89bcfa5eeebd43b7a0",
-            "path": "emotes/motion6.png"
-          }
-        },
-        {
-          "id": "motion7.json",
-          "name": "motion7.json",
-          "type": "File",
-          "artifact": {
-            "size": 3017,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion7.json",
-            "MD5": "1d9115a47e4935ee743f450d8f6294d0",
-            "path": "emotes/motion7.json"
-          }
-        },
-        {
-          "id": "motion7.png",
-          "name": "motion7.png",
-          "type": "File",
-          "artifact": {
-            "size": 34753,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion7.png",
-            "MD5": "5d74f8b78309063bc50fb2f1ee1e81a7",
-            "path": "emotes/motion7.png"
-          }
-        },
-        {
-          "id": "motion8.json",
-          "name": "motion8.json",
-          "type": "File",
-          "artifact": {
-            "size": 779,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion8.json",
-            "MD5": "1795ab7a3bf0fb2a82d806c7edf20b90",
-            "path": "emotes/motion8.json"
-          }
-        },
-        {
-          "id": "motion8.png",
-          "name": "motion8.png",
-          "type": "File",
-          "artifact": {
-            "size": 36883,
-            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/files/emotes/motion8.png",
-            "MD5": "ccedcab2019f4582cae3794389e7f783",
-            "path": "emotes/motion8.png"
           }
         },
         {
