@@ -226,6 +226,16 @@
           }
         },
         {
+          "id": "com.gtvideoplayer:gtvideoplayer:${version}@jar",
+          "name": "GTVideoPlayer",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17262,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/gtvideoplayer-fabric-1.0.0-sources.jar",
+            "MD5": "b64ceff07ee62042f44d7be2a721389e"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -303,6 +313,16 @@
             "size": 1306799,
             "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.23@jar",
+          "name": "WaterMedia",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 37851021,
+            "url": "https://github.com/suhotest/sunrise/raw/main/servers/sunrise-1.21.4/fabricmods/required/watermedia-2.1.23.jar",
+            "MD5": "e9ca967ff77bf883202e0b44b8d79fa3"
           }
         },
         {
