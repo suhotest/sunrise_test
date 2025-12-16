@@ -1,9 +1,9 @@
 {
-  "$schema": "file:///C:/Users/11/Documents/GitHub/sunrise/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/11/Documents/GitHub/sunrise_test/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "4.0.0",
-    "name": "sunrise (Minecraft 1.21.4)",
-    "description": "sunrise Running Minecraft 1.21.4 (Fabric v0.18.1)",
+    "name": "sunrise_test (Minecraft 1.21.4)",
+    "description": "sunrise_test Running Minecraft 1.21.4 (Fabric v0.18.1)",
     "icon": "https://github.com/minsuho/dolpal/raw/main/repo/ico.jpg",
     "address": "1.251.106.167",
     "discord": {
