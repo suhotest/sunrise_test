@@ -4,7 +4,7 @@
     "version": "4.0.0",
     "name": "sunrise_test (Minecraft 1.21.4)",
     "description": "sunrise_test Running Minecraft 1.21.4 (Fabric v0.18.1)",
-    "icon": "https://github.com/minsuho/dolpal/raw/main/repo/ico.jpg",
+    "icon": "https://github.com/minsuho/sunrise_test/raw/main/repo/ico.jpg",
     "address": "1.251.106.167",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
