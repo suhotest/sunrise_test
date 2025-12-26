@@ -1,0 +1,12 @@
+version:4189
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","fabric"]
+lang:ko_kr
+soundCategory_music:0.0
+gamma:1.0
+guiScale:3
+renderDistance:16
+simulationDistance:16
+skipMultiplayerWarning:true
+joinedFirstServer:true
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
